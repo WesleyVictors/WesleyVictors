@@ -8,16 +8,7 @@ Me chamo Wesley Victor Ferreira, tenho 24 anos e sou natural de Itabira Minas ge
 
 Sou graduando em Engenharia Elétrica pela Pitágoras Itabira com previsão de formatura em 2026. E venho aprofundando meus conhecimentos na área do desenvolvimento, por meio do programa de formação de desenvolvedores (Projeto Desenvolve Itabira) focando nas tecnologias de JavaScript/Node.JS, HTML/CSS, Python, MySQL.
 
-<p align="left">
-    <a href="https://www.youtube.com/@larissakich?sub_confirmation=1">
-        <img 
-            alt="Linkedin" 
-            title="Acesse meu Linkedin" 
-            src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UCo-gJ8RnTn5akHqHvO55DVA?color=%23E05D44&label=Inscreva-se&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630](https://br.linkedin.com/in/wesleyvictor)"
-        />
-    </a>
 
-</p>
 
 ---
 
