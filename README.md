@@ -4,7 +4,7 @@
 
 **`Desenvolvedor FullStack`**
 
-Me chamo Wesley Victor Ferreira, tenho 24 anos e sou natural de Itabira Minas gerais. Atuo desde 2021 na manutenção eletromecânica da planta automatizada de amostras minerais do laboratório Vale Cauê Itabira MG. Realizo manutenção em equipamentos FLSmidth da linha QCX/RoboLab, uma solução de robótica de alta tecnologia para preparação automatizada de amostras, análise e procedimentos automatizados com garantia e controle de qualidade.
+Me chamo Wesley Victor Ferreira, tenho 24 anos e sou natural de Itabira Minas Gerais. Atuo desde 2021 na manutenção eletromecânica da planta automatizada de amostras minerais do laboratório Vale Cauê Itabira MG. Realizo manutenção em equipamentos FLSmidth da linha QCX/RoboLab, uma solução de robótica de alta tecnologia para preparação automatizada de amostras, análise e procedimentos automatizados com garantia e controle de qualidade.
 
 Sou graduando em Engenharia Elétrica pela Pitágoras Itabira com previsão de formatura em 2026. E venho aprofundando meus conhecimentos na área do desenvolvimento, por meio do programa de formação de desenvolvedores (Projeto Desenvolve Itabira) focando nas tecnologias de JavaScript/Node.JS, HTML/CSS, Python, MySQL.
 
