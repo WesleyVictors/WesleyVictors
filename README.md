@@ -1,6 +1,6 @@
 ## Wesley
 
-# 👩🏻‍💻 Wesley Victor 
+#  Wesley Victor 
 
 **`Desenvolvedor FullStack`**
 
